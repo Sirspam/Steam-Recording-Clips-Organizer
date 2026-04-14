@@ -24,11 +24,11 @@ py organize_steam_clips.py
 ```
 
 Additionally, the command line accepts the following optional arguments:
-### CLI Arguments
-|Command|Short|Description|
-|---|---|---|
-|--path|-p|Path to Steam Recording clips|
-|--output-path|-o|Path to output organized clips to|
-|--no-organize| |Do not organize clips into folders|
-|--no-24hr-rename| |Do not convert 12 hour file names to 24 hour|
-|--dry-run| |Print the changes that would be made without actually modifying files|
+### Command Line Arguments
+|Argument|Short|Parameter|Description|
+|---|---|---|---|
+|--path|-p|Path|Path to Steam Recording clips|
+|--output-path|-o|Path|Path to output organized clips to|
+|--no-organize| | |Do not organize clips into folders|
+|--no-24hr-rename| | |Do not convert 12 hour file names to 24 hour|
+|--dry-run| | |Print the changes that would be made without actually modifying files|
